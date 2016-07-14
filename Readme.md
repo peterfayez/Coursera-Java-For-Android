@@ -15,5 +15,5 @@ that are used in Android, which is the dominant platform for developing and depl
 * Inheritance and Polymorphism (such as subclass and overriding virtual methods)
 * Exceptions Handling
 
-#### NanoDegree Certificate
+#### Course Certificate
 ![Certificate](Certificate.png)
